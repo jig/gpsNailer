@@ -1,0 +1,7 @@
+span#gpsStatus {
+	color: red;
+}
+
+span#samples {
+	text-decoration: underline;
+}
